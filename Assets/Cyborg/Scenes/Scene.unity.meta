@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06fa5cd7edb732c41b253bdf29e21c95
+timeCreated: 1519846689
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 112661
+  packageName: Cyborg Character
+  packageVersion: 1.0
+  assetPath: Assets/Cyborg/Scenes/Scene.unity
+  uploadId: 232448
