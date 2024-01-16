@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ARCloudAnchors-master_2022.sln"
+    "dotnet.defaultSolution": "ARCloudAnchors-master_2023.sln"
 }
