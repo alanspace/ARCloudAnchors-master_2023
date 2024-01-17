@@ -4,6 +4,7 @@ using UnityEngine.XR.ARFoundation;
 
 [RequireComponent(typeof(ARPlaneManager))]
 [RequireComponent(typeof(ARPointCloudManager))]
+
 public class ARCloudAnchorExperienceManager : MonoBehaviour
 {
     [SerializeField]

@@ -1,4 +1,4 @@
-Library: /Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/BurstOutput/StaticLibraries/lib_burst_generated
+Library: /Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Temp/BurstOutput/StaticLibraries/lib_burst_generated
 --platform=iOS
 --backend=burst-llvm-10
 --target=ARMV8A_AARCH64
@@ -37,11 +37,11 @@ Library: /Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/BurstOutp
 --assembly-defines=UnityEngine;
 --linker-options=min-ios-version=13.0
 --generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/Burst
+--temp-folder=/Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Temp/Burst
 --generate-static-linkage-methods
 --key-folder=/Applications/Unity/Hub/Editor/2023.2.3f1/PlaybackEngines/iOSSupport
---decode-folder=/Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Library/Burst
---output=/Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/BurstOutput/StaticLibraries/lib_burst_generated
+--decode-folder=/Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Library/Burst
+--output=/Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Temp/BurstOutput/StaticLibraries/lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
@@ -83,11 +83,11 @@ Library: /Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/BurstOutp
 --assembly-defines=UnityEngine;
 --linker-options=min-ios-version=13.0
 --generate-link-xml=Temp/burst.link.xml
---temp-folder=/Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/Burst
+--temp-folder=/Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Temp/Burst
 --generate-static-linkage-methods
 --key-folder=/Applications/Unity/Hub/Editor/2023.2.3f1/PlaybackEngines/iOSSupport
---decode-folder=/Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Library/Burst
---output=/Users/daai6ga1hou2/Downloads/ARCloudAnchors-master_2022/Temp/BurstOutput/StaticLibraries/lib_burst_generated
+--decode-folder=/Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Library/Burst
+--output=/Users/daai6ga1hou2/Documents/GitHub/ARCloudAnchors-master_2023/Temp/BurstOutput/StaticLibraries/lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.Collections.NativeListDisposeJob, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Collections.NativeListDisposeJob&, Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--4a1dc7df3f09b836e86a41d0d8fb4229

@@ -138,6 +138,7 @@ public class ARCloudAnchorManager : Singleton<ARCloudAnchorManager>
             // to ache which anchor to be resolved next
             // keep track of cloud anchors added
             anchorToResolve = cloudAnchor.cloudAnchorId;
+             
         }
 
          // if it is not successful, then put text with the state for trouble shooting
